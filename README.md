@@ -7,9 +7,9 @@
 - `report/`：Word 报告文件
 
 ## 演示视频
-<video width="800" height="450" controls autoplay muted>
+<video width="800" height="450" controls>
   <source src="https://raw.githubusercontent.com/jiefengxue/-/master/video/演示视频.mp4" type="video/mp4">
-  你的浏览器不支持视频播放，请点击链接查看：[演示视频下载](https://raw.githubusercontent.com/jiefengxue/-/master/video/演示视频.mp4)
+  浏览器不支持播放，请点击链接查看：[演示视频](https://raw.githubusercontent.com/jiefengxue/-/master/video/演示视频.mp4)
 </video>
 
 ### 视频说明
